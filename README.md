@@ -3,7 +3,7 @@
 - 🌱 I’m currently Studying BSC.CSIT ...
 - 💞️ I’m looking to collaborate on ML ...
   <br>
-<strong> MANDY </strong>
+<button> MANDY </button>
 
 <!---
 MandyE69/MandyE69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
