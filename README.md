@@ -1,8 +1,11 @@
 <p align="right"> <img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400"> </p>
 
 - 👋 Hi, I’m MandyE
+  
 - 👀 I’m interested in DESIGNING ...
+ 
 - 🌱 I’m currently Studying Computer Science ...
+ 
 - 💞️ I’m looking to collaborate on ML ....
 
 <h1>MANDY</h1>
