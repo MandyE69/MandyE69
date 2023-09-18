@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ML ....
   <br>
 <button> MANDY </button>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex" alt="git">
+<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex" alt="git"> -->
 
 [![An image of @mandye's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mandye)](https://holopin.io/@mandye)
 
