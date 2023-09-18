@@ -2,9 +2,8 @@
 - 👀 I’m interested in DESIGNING ...
 - 🌱 I’m currently Studying Computer Science ...
 - 💞️ I’m looking to collaborate on ML ....
-  <img src="https://github.com/Cool-GIFs-For-GitHub/assets/74038190/504a2680-59a6-420e-b297-5ae89d68e377" width="400">
-    <br><br>
 <button> MANDY </button>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 <img src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"> 
 
 [![An image of @mandye's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mandye)](https://holopin.io/@mandye)
