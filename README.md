@@ -1,6 +1,6 @@
 
 
-<h1 align="center" font-family="poppins">MANDY</h1>
+<h1 align="center" font-family="poppins">Madhav Gyawali</h1>
 
  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400" height="200"> 
 
