@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=240&section=header&text=Madhav%20Gyawali&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20IT%20Graduate&descAlignY=60&descSize=20" alt="Madhav Gyawali" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=240&section=header&text=Madhav%20Gyawali&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20IT%20Graduate&descAlignY=60&descSize=20" alt="Madhav Gyawali" width="100%"/> -->
 
 <a href="https://www.madhavgyawali9.com.np/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=60&lines=Crafting+digital+experiences+at+the+intersection+of+Code+%26+Innovation;CS+%26+IT+Graduate+from+Tribhuvan+University+%F0%9F%8E%93;Lab+Instructor+%40+Orchid+College+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Hiring+me+may+result+in+suspiciously+good+software+%F0%9F%98%8E" alt="Typing SVG" />
