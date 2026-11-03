@@ -116,7 +116,7 @@ Have a question or want to work together? Send me a message and I'll get back to
 <br/>
 
 [![Contact Form](https://img.shields.io/badge/Send_a_Message-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](https://www.madhavgyawali9.com.np/#contact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhav-gyawali-013627226/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhav-gyawali/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MandyE69)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://www.madhavgyawali9.com.np/)
 
